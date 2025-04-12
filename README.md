@@ -22,3 +22,4 @@ This project focuses on **Data Standardization**, a crucial preprocessing step i
 from sklearn.preprocessing import StandardScaler
 scaler = StandardScaler()
 scaled_data = scaler.fit_transform(data)
+o
