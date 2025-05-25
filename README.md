@@ -1,4 +1,4 @@
-# 📊 Data Standardization in Machine Learning
+# 📊 Data Standardization in Machine Learning.
 
 This project demonstrates the importance and implementation of data standardization, a preprocessing technique essential for many machine learning models to perform optimally.
 
